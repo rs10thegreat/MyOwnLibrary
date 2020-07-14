@@ -1,2 +1,2 @@
-# MyOwnLibrary
-library of collision algorithm and bounceOff algorithm.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
